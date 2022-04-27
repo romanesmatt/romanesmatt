@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Romanes!</h1>
-<h3 align="center"> Seeking roles in Cybersecurity to help in protecting people's livelihoods and privacy.</h3>
+<h3 align="center"> Seeking roles in Cybersecurity to help in protecting people's livelihoods and privacy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanesmatt&label=Profile%20views&color=0e75b6&style=flat" alt="romanesmatt" /> </p>
 
@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanesmatt&show_icons=true&locale=en&layout=compact" alt="romanesmatt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanesmatt&show_icons=true&locale=en" alt="romanesmatt" /></p>
+<br>
+<p>Thank you for taking the time to visit my GitHub profile! Enjoy the rest of your day! ☺️✨</p>
