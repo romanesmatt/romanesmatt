@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matt Romanes!</h1>
-<h3 align="center"> Seeking roles in Cybersecurity to help in protecting people's livelihoods and privacy</h3>
+<h3 align="center"> I'm seeking roles in Cybersecurity to help in protecting people's livelihoods and privacy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanesmatt&label=Profile%20views&color=0e75b6&style=flat" alt="romanesmatt" /> </p>
 
-
-- 🏫 I'm currently in my final semester at **Victoria University of Wellington**
-- 🌱 I am learning **Computer Science** with a specialisation in **Cybersecurity**
-- 🏸 I live an active lifestyle outside of computers
+<h3 align="left"> Some interesting facts about me: </h3>
+- 🏫 I'm currently in my final semester at **Victoria University of Wellington** <br>
+- 🌱 I am learning **Computer Science** with a specialisation in **Cybersecurity** <br>
+- 🏸 I live an active lifestyle outside of computers <br>
 - 📫 How to reach me: **mattromanes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
