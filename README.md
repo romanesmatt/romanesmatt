@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Romanes!</h1>
-<h3 align="center"> I'm seeking roles in Cybersecurity to help in protecting people's livelihoods and privacy</h3>
+<h3 align="center"> I'm seeking roles in Software Development to help in creating better digital solutions. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanesmatt&label=Profile%20views&color=0e75b6&style=flat" alt="romanesmatt" /> </p>
 
