@@ -5,7 +5,7 @@
 
 <h3 align="left"> Some interesting facts about me: </h3>
 - 🏫 I'm currently in my final semester at Victoria University of Wellington <br>
-- 🌱 I am learning Computer Science with a specialisation in Cybersecurity <br>
+- 🌱 I am learning Computer Science <br>
 - 🏸 I live an active lifestyle outside of computers <br>
 - 📫 How to reach me: mattromanes@gmail.com
 
