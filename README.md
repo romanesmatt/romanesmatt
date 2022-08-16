@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt Romanes!</h1>
-<h3 align="center"> I'm a Junior Network DevOps Engineer at Omega Network. </h3>
+<h3 align="center"> I'm a Junior Network DevOps Engineer at Omega Networks. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanesmatt&label=Profile%20views&color=0e75b6&style=flat" alt="romanesmatt" /> </p>
 
