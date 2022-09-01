@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanesmatt&label=Profile%20views&color=0e75b6&style=flat" alt="romanesmatt" /> </p>
 
 <h3 align="left"> Some interesting facts about me: </h3>
-- 🏫 I'm currently in my final year at Victoria University of Wellington <br>
-- 🌱 I am learning Computer Science <br>
 - 🏸 I live an active lifestyle outside of computers <br>
 - 📫 How to reach me: mattromanes@gmail.com
 
