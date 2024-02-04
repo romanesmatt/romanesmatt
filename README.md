@@ -1,8 +1,6 @@
 <h1 align="center">Kia ora 👋, I'm Matt Romanes!</h1>
 <h3 align="center">A Junior Network DevOps Engineer At Omega Networks</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=romanesmatt&label=Profile%20views&color=0e75b6&style=flat" alt="romanesmatt" /> </p>
-
 - 🔭 I’m currently working on **A Network Monitoring and Automation App**
 
 - 🌱 I’m currently learning **SwiftUI and SwiftData**
