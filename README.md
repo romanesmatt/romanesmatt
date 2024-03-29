@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Network Monitoring and Automation App**
 
-- 🌱 I’m currently learning **SwiftUI and SwiftData**
+- 🌱 I’m currently learning **DevOps principles**
 
 - 📫 How to reach me **mattromanes@gmail.com**
 
