@@ -1,4 +1,4 @@
-<h1 align="center">Kia ora 👋, I'm Matt Romanes!</h1>
+<h1 align="center"> Hello 👋, I'm Matt Romanes!</h1>
 <h3 align="center">A Junior Network DevOps Engineer At Omega Networks</h3>
 
 - 🔭 I’m currently working on **A Network Monitoring and Automation App**
