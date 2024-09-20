@@ -1,5 +1,5 @@
 <h1 align="center"> Hello 👋, I'm Matt Romanes!</h1>
-<h3 align="center">A Junior Network DevOps Engineer At Omega Networks</h3>
+<h3 align="center">A Software Engineer At Omega Networks</h3>
 
 - 🔭 I’m currently working on **An IoT Asset Management System**
 
