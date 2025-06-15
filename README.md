@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋, I'm Matt Romanes!</h1>
 <h3 align="center">A DevOps Engineer At Omega Networks</h3>
 
-- 🔭 I’m currently working on **An IoT Asset Management System**
+- 🔭 I’m currently working on **An Infrastructure Orchestration Platform**
 
 - 🌱 I’m currently learning **.NET**
 
