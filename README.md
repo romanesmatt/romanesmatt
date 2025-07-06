@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on an **Infrastructure Orchestration Platform with AI Integration**
 - 🤖 I'm building **RAG systems with local LLMs and quantised models**
 - 🌱 I'm currently learning **.NET Core and advanced MLX implementations**
-- 🍎 **Recognised by Apple Engineering Teams** during WWDC 25 for SwiftUI implementation complexity
+🍎 **Recognised by Apple Engineering Teams** during WWDC 25 for SwiftUI implementation complexity and advanced MLX usage
 - 📫 How to reach me **mattromanes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
