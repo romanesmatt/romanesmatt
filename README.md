@@ -1,8 +1,8 @@
 <h1 align="center"> Hello 👋, I'm Matt Romanes!</h1>
-<h3 align="center">A DevOps Engineer specialising in Infrastructure Resilience and AI</h3>
+<h3 align="center">A Software Engineer specialising in Infrastructure Resilience and AI</h3>
 
-- 🚀 I am relocating to <b>Melbourne</b>, Australia and am actively seeking new opportunities in Software, DevOps and Infrastructure Engineering.
-- 🔭 I recently architected <b>Pulse</b>, a municipal resilience platform using a modern Apple stack (SwiftUI, SwiftData, MLX). You can view the <b><a href="https://github.com/romanesmatt/pulse-resilience-platform">Project Showcase & Architecture here</a></b>.
+- 🚀 I am relocating to <b>Melbourne</b>, Australia and am actively seeking new opportunities in Software Engineering, especially roles that bridge application development and infrastructure.
+- 🔭 I recently architected <b>Pulse</b>, a municipal resilience platform using a modern Apple stack (SwiftUI, SwiftData, MLX). You can view the <b><a href="https://github.com/romanesmatt/Pulse-Platform-Showcase">Project Showcase & Architecture here</a></b>.
 - 🤖 My expertise includes building <b>RAG systems with local LLMs</b> to ensure data sovereignty and enable powerful, on-device AI.
 - 🌱 I'm currently learning <b>.NET Core and advanced MLX implementations</b> to broaden my skill set.
 - 🍎 I was honoured to receive recognition from <b>Apple's Engineering Teams</b> during WWDC 25 for implementation complexity in SwiftUI and MLX.
