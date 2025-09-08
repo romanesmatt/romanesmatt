@@ -4,7 +4,7 @@
 - 🚀 I am relocating to <b>Melbourne</b>, Australia and am actively seeking new opportunities in Software Engineering, especially roles that bridge application development and infrastructure.
 - 🔭 I was the Lead Developer of <b>Pulse</b>, Omega Networks' municipal resilience platform using a modern Apple stack (SwiftUI, SwiftData, MLX)</b>.
 - 🤖 My expertise includes building <b>RAG systems with local LLMs</b> to ensure data sovereignty and enable powerful, on-device AI.
-- 🌱 I'm currently learning <b>AWS and advanced MLX implementations</b> to broaden my skill set.
+- 🌱 I'm currently learning <b>Microsoft Power Platform (Power BI, Power Apps)</b> to broaden my skill set.
 - 🍎 I was honoured to receive recognition from <b>Apple's Engineering Teams</b> during WWDC 25 for implementation complexity in SwiftUI and MLX.
 - 📫 How to reach me: <b>mattromanes@gmail.com</b>
 
