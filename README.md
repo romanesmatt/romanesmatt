@@ -1,74 +1,63 @@
-<h1 align="center"> Hello 👋, I'm Matt Romanes!</h1>
-<h3 align="center">A Software Engineer specialising in Infrastructure Resilience and AI</h3>
+# Hello 👋, I'm Matt Romanes!
 
-- 🔭 I was a major contributor of <b>Pulse</b>, Omega Networks' municipal resilience platform using a modern Apple stack (SwiftUI, SwiftData, MLX)</b>.
-- 🤖 My expertise includes building <b>RAG systems with local LLMs</b> to ensure data sovereignty and enable powerful, on-device AI.
-- 🌱 I'm currently learning <b>Microsoft Power Platform (Power BI, Power Apps)</b> to broaden my skill set.
-- 🍎 I was honoured to receive recognition from <b>Apple's Engineering Teams</b> during WWDC 25 remote labs for implementation complexity in SwiftUI and MLX.
-- 📫 How to reach me: <b>mattromanes@gmail.com</b>
+A Software Engineer and aspiring Data Analyst with a passion for turning complex data into robust, production-ready applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matt-romanes-860606153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matt-romanes-860606153/" height="30" width="40" /></a>
+- 🔭 I was the **lead developer** of **[Pulse](https://github.com/Omega-Networks/Pulse)**, a now open-source (AGPL-3.0) infrastructure digital twin. I architected and built the platform from a conceptual blueprint to its initial public release, writing the vast majority of the Swift codebase.
+
+- 🤖 My work on Pulse included building a **custom RAG system** using on-device LLMs (MLX) to transform siloed infrastructure data into actionable intelligence, all while ensuring complete data sovereignty.
+
+- 🌱 I'm currently deepening my expertise in **data analysis and visualisation**. My first project in this space is an analysis of Melbourne's public transport network, which you can find here: **[Melbourne Public Transport Analysis](https://github.com/romanesmatt/Melbourne-Public-Transport-Analysis)**.
+
+- 🍎 During my work on Pulse, I received direct technical feedback from **Apple's SwiftUI and MLX engineering teams** on the implementation's complexity during WWDC 25 remote labs.
+
+- 📫 How to reach me: **mattromanes@gmail.com**
+
+---
+
+### Connect with me:
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matt-romanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matt-romanes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15851202/matt-romanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15851202/matt-romanes" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">  
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-</p>
-  
+<br />
+<br />
 
-<h3 align="left">Frameworks:</h3>
-<p>
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swiftui" width="40" height="40"/> 
-</a>
- </p>
+---
 
- <h3 align="left">Backend:</h3>
- <p align="left"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+### My Tech Stack
 
-<h3 align="left">AI/ML:</h3>
-<p align="left">
-<a href="https://github.com/ml-explore/mlx" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="mlx" width="40" height="40"/> 
-</a>
-</p>
+**Languages:**
 
-<h3 align="left">Databases:</h3>
-<p align="left">
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a>
-<a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swiftdata" width="40" height="40"/> 
-</a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<h3 align="left">DevOps:</h3>
-<p align="left">
-<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure-devops" width="40" height="40"/> 
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-</a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> 
-</a>
-</p>
+**Data Analysis & Visualisation:**
 
-<h3 align="left">Tools:</h3>
-<p>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  
-</p>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanesmatt&show_icons=true&locale=en&layout=compact" alt="romanesmatt" /></p>
+**Frameworks & Backend:**
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**AI/ML & Databases:**
+
+![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-FF2D55?style=for-the-badge&logo=swift&logoColor=white)
+
+**DevOps & Tools:**
+
+![Azure DevOps](https://img.shields.io/badge/azuredevops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+[linkedin]: https://www.linkedin.com/in/matt-romanes
+[stackoverflow]: https://stackoverflow.com/users/15851202/matt-romanes
