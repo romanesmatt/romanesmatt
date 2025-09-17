@@ -2,7 +2,7 @@
 
 A Software Engineer and aspiring Data Analyst with a passion for turning complex data into robust, production-ready applications.
 
-- 🔭 I was the **lead developer** of **[Pulse](https://github.com/Omega-Networks/Pulse)**, a now open-source (AGPL-3.0) infrastructure digital twin. I architected and built the platform from a conceptual blueprint to its initial public release, writing the vast majority of the Swift codebase.
+- 🔭 I was the **lead developer** of **[Pulse](https://github.com/Omega-Networks/Pulse)**, a now open-source (AGPL-3.0) infrastructure digital twin. I built the platform from a conceptual blueprint to its initial public release, writing the vast majority of the Swift codebase.
 
 - 🤖 My work on Pulse included building a **custom RAG system** using on-device LLMs (MLX) to transform siloed infrastructure data into actionable intelligence, all while ensuring complete data sovereignty.
 
