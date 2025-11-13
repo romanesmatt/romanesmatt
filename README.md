@@ -1,6 +1,6 @@
 # Hello 👋, I'm Matt Romanes!
 
-A Software Engineer and aspiring Data Analyst with a passion for turning complex data into robust, production-ready applications.
+A Software Engineer with a passion for turning complex data into robust, production-ready applications.
 
 - 🔭 I was the **lead developer** of **[Pulse](https://github.com/Omega-Networks/Pulse)**, a now open-source (AGPL-3.0) infrastructure digital twin. I built the platform from a conceptual blueprint to its initial public release, writing the vast majority of the Swift codebase.
 
