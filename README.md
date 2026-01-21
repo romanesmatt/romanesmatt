@@ -1,22 +1,24 @@
 # Hello 👋, I'm Matt Romanes!
 
-A Software Engineer with a passion for turning complex data into robust, production-ready applications.
+A Technical Consultant transitioning to Salesforce Implementation and Technical Consultant roles, bringing 3 years of solution delivery and system integration experience.
 
-- 🔭 I was the **lead developer** of **[Pulse](https://github.com/Omega-Networks/Pulse)**, a now open-source (AGPL-3.0) infrastructure digital twin. I built the platform from a conceptual blueprint to its initial public release, writing the vast majority of the Swift codebase.
+- 🔭 I was the **lead developer** of **[Pulse](https://github.com/Omega-Networks/Pulse)**, an infrastructure digital twin platform. I architected the system from blueprint to production, integrating multiple external APIs into unified solutions for Wellington municipal councils.
 
-- 🤖 My work on Pulse included building a **custom RAG system** using on-device LLMs (MLX) to transform siloed infrastructure data into actionable intelligence, all while ensuring complete data sovereignty.
+- 🤖 My work on Pulse included building a **custom RAG system** using on-device LLMs (MLX) and translating complex infrastructure requirements into platform capabilities—skills that directly translate to Salesforce implementation consulting.
 
-- 🌱 I'm currently deepening my expertise in **data analysis and visualisation**. My first project in this space is an analysis of Melbourne's public transport network, which you can find here: **[Melbourne Public Transport Analysis](https://github.com/romanesmatt/Melbourne-Public-Transport-Analysis)**.
+- 🌱 I'm currently building **Salesforce platform expertise** through hands-on development in practice orgs and completing Trailhead modules. My focus is on solution design, process automation, and requirements translation for IC/TC roles.
 
-- 🍎 During my work on Pulse, I received direct technical feedback from **Apple's SwiftUI and MLX engineering teams** on the implementation's complexity during WWDC 25 remote labs.
+- 🔗 **Trailhead Profile:** [https://www.salesforce.com/trailblazer/romanesmatt](https://www.salesforce.com/trailblazer/romanesmatt)
+
+- 🍎 During my work on Pulse, I received direct technical feedback from **Apple's SwiftUI and MLX engineering teams** during WWDC 25 remote labs, demonstrating my ability to communicate complex technical implementations with stakeholders.
 
 - 📫 How to reach me: **mattromanes@gmail.com**
 
 ---
 
 ### Connect with me:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/matt-romanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matt-romanes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15851202/matt-romanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15851202/matt-romanes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matt-romanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matt Romanes LinkedIn" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15851202/matt-romanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Matt Romanes Stack Overflow" height="30" width="40" /></a>
 
 <br />
 <br />
@@ -24,6 +26,12 @@ A Software Engineer with a passion for turning complex data into robust, product
 ---
 
 ### My Tech Stack
+
+**Currently Learning:**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white)
+![Lightning Web Components](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 **Languages:**
 
